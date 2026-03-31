@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Solvative/static/css/main.fbd13be9.css",
-    "main.js": "/Solvative/static/js/main.c9bc167f.js",
+    "main.js": "/Solvative/static/js/main.eb5bb720.js",
     "static/js/453.6759f95c.chunk.js": "/Solvative/static/js/453.6759f95c.chunk.js",
     "index.html": "/Solvative/index.html",
     "main.fbd13be9.css.map": "/Solvative/static/css/main.fbd13be9.css.map",
-    "main.c9bc167f.js.map": "/Solvative/static/js/main.c9bc167f.js.map",
+    "main.eb5bb720.js.map": "/Solvative/static/js/main.eb5bb720.js.map",
     "453.6759f95c.chunk.js.map": "/Solvative/static/js/453.6759f95c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbd13be9.css",
-    "static/js/main.c9bc167f.js"
+    "static/js/main.eb5bb720.js"
   ]
 }
