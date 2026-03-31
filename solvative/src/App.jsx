@@ -1,32 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { 
   Smartphone, 
   BrainCircuit, 
-  Cloud, 
-  Mail, 
-  Phone, 
   ExternalLink, 
   Moon, 
   Sun, 
   Code2, 
-  Database, 
-  Layers,
-  Users,
-  Menu,
-  X,
-  Briefcase,
-  Terminal,
+  Menu, 
+  X, 
   Cpu, 
-  Globe,
-  ArrowUpRight,
-  ShieldCheck,
-  Search,
-  Building2,
-  MessageCircle,
-  MapPin,
-  QrCode,
-  ShoppingBag,
-  HeartPulse
+  ArrowUpRight, 
+  ShieldCheck, 
+  MessageCircle 
 } from 'lucide-react';
 
 const App = () => {
