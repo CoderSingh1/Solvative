@@ -59,13 +59,6 @@ const App = () => {
 
   const projects = [
     {
-      title: "Legacy Carry",
-      category: "live",
-      metric: "Smart Society App",
-      desc: "A smart application for societies to connect residents and businesses, facilitating seamless community commerce and management.",
-      tags: ["Flutter", "Smart App", "Community Tech", "Commerce"]
-    },
-    {
       title: "Nitnem Audio",
       category: "live",
       metric: "1M+ Downloads",
@@ -80,6 +73,14 @@ const App = () => {
       desc: "ML-powered gallery and image finding system that uses neural search to index and retrieve media based on visual content.",
       tags: ["ML Model", "Image Search", "Neural Engine"],
       link: "https://play.google.com/store/apps/details?id=com.nisargmedia.lumeo"
+    },
+    {
+      title: "Legacy Carry",
+      category: "live",
+      metric: "Smart Society App",
+      desc: "A smart application for societies to connect residents and businesses, facilitating seamless community commerce and management.",
+      tags: ["Flutter", "Smart App", "Community Tech", "Commerce"],
+      link: "#"
     },
     {
       title: "Voltride App",
