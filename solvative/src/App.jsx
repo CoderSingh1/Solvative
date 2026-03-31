@@ -63,8 +63,7 @@ const App = () => {
       category: "live",
       metric: "Smart Society App",
       desc: "A smart application for societies to connect residents and businesses, facilitating seamless community commerce and management.",
-      tags: ["Flutter", "Smart App", "Community Tech", "Commerce"],
-      link: "https://weupdaters.com/"
+      tags: ["Flutter", "Smart App", "Community Tech", "Commerce"]
     },
     {
       title: "Nitnem Audio",
@@ -75,20 +74,20 @@ const App = () => {
       link: "https://play.google.com/store/apps/details?id=com.smartsolution.nitnempathpro"
     },
     {
-      title: "Voltride App",
-      category: "live",
-      metric: "Ride Sharing",
-      desc: "Uber-like ride-sharing platform integrated with Google SDK for real-time tracking, route optimization, and seamless mobility.",
-      tags: ["Flutter", "Google Maps SDK", "Location Services", "Real-time"],
-      link: "#"
-    },
-    {
       title: "Lumeo",
       category: "ai",
       metric: "ML Image Finding",
       desc: "ML-powered gallery and image finding system that uses neural search to index and retrieve media based on visual content.",
       tags: ["ML Model", "Image Search", "Neural Engine"],
       link: "https://play.google.com/store/apps/details?id=com.nisargmedia.lumeo"
+    },
+    {
+      title: "Voltride App",
+      category: "live",
+      metric: "Ride Sharing",
+      desc: "Uber-like ride-sharing platform integrated with Google SDK for real-time tracking, route optimization, and seamless mobility.",
+      tags: ["Flutter", "Google Maps SDK", "Location Services", "Real-time"],
+      link: "#"
     },
     {
       title: "Emergency App",
